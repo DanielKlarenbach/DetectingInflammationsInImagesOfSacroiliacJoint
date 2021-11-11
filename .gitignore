@@ -5,7 +5,8 @@ nodes
 labels
 edges
 edge_indices
-neighbour_graphs
+neighbor_graphs
 saved_model.pb
 variables
 assets
+gcn_explain_mutag.png
