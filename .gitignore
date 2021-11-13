@@ -1,12 +1,3 @@
 data/
 .*
-rags
-nodes
-labels
-edges
-edge_indices
-neighbor_graphs
-saved_model.pb
-variables
-assets
-gcn_explain_mutag.png
+saved_objects/
